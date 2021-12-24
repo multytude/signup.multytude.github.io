@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/signup.multytude/static/css/main.css",
-    "main.js": "/signup.multytude/static/js/main.js",
-    "main.js.map": "/signup.multytude/static/js/main.js.map",
-    "static/js/1.chunk.js": "/signup.multytude/static/js/1.chunk.js",
-    "static/js/1.chunk.js.map": "/signup.multytude/static/js/1.chunk.js.map",
-    "index.html": "/signup.multytude/index.html",
-    "static/css/main.css.map": "/signup.multytude/static/css/main.css.map",
-    "static/js/main.js.LICENSE.txt": "/signup.multytude/static/js/main.js.LICENSE.txt",
-    "static/media/app_store_button.7cb492a1.png": "/signup.multytude/static/media/app_store_button.7cb492a1.png",
-    "static/media/google_play_button.57752f86.png": "/signup.multytude/static/media/google_play_button.57752f86.png"
+    "main.css": "/signup.multytude.github.io/static/css/main.css",
+    "main.js": "/signup.multytude.github.io/static/js/main.js",
+    "main.js.map": "/signup.multytude.github.io/static/js/main.js.map",
+    "static/js/1.chunk.js": "/signup.multytude.github.io/static/js/1.chunk.js",
+    "static/js/1.chunk.js.map": "/signup.multytude.github.io/static/js/1.chunk.js.map",
+    "index.html": "/signup.multytude.github.io/index.html",
+    "static/css/main.css.map": "/signup.multytude.github.io/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/signup.multytude.github.io/static/js/main.js.LICENSE.txt",
+    "static/media/app_store_button.7cb492a1.png": "/signup.multytude.github.io/static/media/app_store_button.7cb492a1.png",
+    "static/media/google_play_button.57752f86.png": "/signup.multytude.github.io/static/media/google_play_button.57752f86.png"
   },
   "entrypoints": [
     "static/css/main.css",
